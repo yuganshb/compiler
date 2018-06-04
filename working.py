@@ -188,7 +188,7 @@ file.close()
 sttable={}
 sttable['ln']='\n'
 
-p=program(code,sttable)
-print(sttable)
+p=program(code,sttable);
+print(sttable);
 
 
